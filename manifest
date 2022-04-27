@@ -59,6 +59,7 @@ export PACKAGES="\
 	xf86-video-intel \
 	intel-media-driver \
 	nvidia \
+	nvidia-settings \
 	opencl-nvidia \
 	lib32-opencl-nvidia \
 	nvidia-utils \
